@@ -1,43 +1,43 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/4TB4NCD/pngegg.png",ACTIVOS SOLO CUANDO HAY PARTIDO
-acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/jyf625B/xpi.png",CADUCA 13/12/25
-acestream://167e3b44a520cd76d4372f6d30fe6d7ccd
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png",LA LIGA HDR OP.1 SOLO TV 4K
-acestream://6e5e31f2542b284557c3392c1918eb5030aed64e
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png",LA LIGA OP.2
-acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png",LA LIGA OP.3
-acestream://c9321006921967d6258df6945f1d598a5c0cbf1e
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png",LA LIGA OP.4
-acestream://4b528d10eaad747ddf52251206177573ee3e9f74
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png",LA LIGA OP.5
-acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2Fcb5nr/dzn1.png",DAZN LA LIGA OP.1
-acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2Fcb5nr/dzn1.png",DAZN LA LIGA OP.2
-acestream://74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/2Fcb5nr/dzn1.png",DAZN LA LIGA OP.3
-acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/N6d6p14C/dzn1por.webp",DAZN 1 PT (MADRID CHAMPIONS)
-acestream://36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FbyXnW1V/dazn2por.png",DAZN 2 PT (BARÇA CHAMPIONS)
-acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/dcBc7tZ/ligcamp.png",LIGA CAMPEONES OP.1
-acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/dcBc7tZ/ligcamp.png",LIGA CAMPEONES OP.2
-acestream://2b51710cee513e8939785fa3e7980f32d4e0415f
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/dcBc7tZ/ligcamp.png",LIGA CAMPEONES OP.3
-acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/dcBc7tZ/ligcamp.png",LIGA CAMPEONES OP.4
-acestream://b028202ff335911db3118bceac027df3e8ef6c32
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/dcBc7tZ/ligcamp.png",LIGA CAMPEONES OP.5
-acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/dcBc7tZ/ligcamp.png",LIGA CAMPEONES OP.6
-acestream://c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/dcBc7tZ/ligcamp.png",LIGA CAMPEONES OP.7
-acestream://afbf2a479c5a5072698139f0f556ef3e77a99bd0
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/dcBc7tZ/ligcamp.png",LIGA CAMPEONES OP.8
-acestream://0f7842f8b6c26571e5a974407b61623e56e6a052
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/dcBc7tZ/ligcamp.png",LIGA CAMPEONES OP.9
-acestream://f3eea003e23f94dc2d527306de9dd386e3ebf4ba
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4TB4NCD/pngegg.png",ACTIVOS SOLO CUANDO HAY PARTIDO
+ http://192.168.1.143:6878/ace/manifest.m3u8?id=167e3b44a520cd76d4372f6d30fe6d7ccd
+#EXTINF:-1  tvg-logo="https://i.ibb.co/jyf625B/xpi.png",CADUCA 13/12/25
+ http://192.168.1.143:6878/ace/manifest.m3u8?id=167e3b44a520cd76d4372f6d30fe6d7ccd
+#EXTINF:-1  tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png",LA LIGA HDR OP.1 SOLO TV 4K
+ http://192.168.1.143:6878/ace/manifest.m3u8?id=6e5e31f2542b284557c3392c1918eb5030aed64e
+#EXTINF:-1  tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png",LA LIGA OP.2
+ http://192.168.1.143:6878/ace/manifest.m3u8?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
+#EXTINF:-1  tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png",LA LIGA OP.3
+ http://192.168.1.143:6878/ace/manifest.m3u8?id=c9321006921967d6258df6945f1d598a5c0cbf1e
+#EXTINF:-1  tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png",LA LIGA OP.4
+ http://192.168.1.143:6878/ace/manifest.m3u8?id=4b528d10eaad747ddf52251206177573ee3e9f74
+#EXTINF:-1  tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png",LA LIGA OP.5
+ http://192.168.1.143:6878/ace/manifest.m3u8?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2Fcb5nr/dzn1.png",DAZN LA LIGA OP.1
+ http://192.168.1.143:6878/ace/manifest.m3u8?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2Fcb5nr/dzn1.png",DAZN LA LIGA OP.2
+ http://192.168.1.143:6878/ace/manifest.m3u8?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2Fcb5nr/dzn1.png",DAZN LA LIGA OP.3
+ http://192.168.1.143:6878/ace/manifest.m3u8?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N6d6p14C/dzn1por.webp",DAZN 1 PT (MADRID CHAMPIONS)
+ http://192.168.1.143:6878/ace/manifest.m3u8?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1  tvg-logo="https://i.ibb.co/FbyXnW1V/dazn2por.png",DAZN 2 PT (BARÇA CHAMPIONS)
+ http://192.168.1.143:6878/ace/manifest.m3u8?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dcBc7tZ/ligcamp.png",LIGA CAMPEONES OP.1
+ http://192.168.1.143:6878/ace/manifest.m3u8?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dcBc7tZ/ligcamp.png",LIGA CAMPEONES OP.2
+ http://192.168.1.143:6878/ace/manifest.m3u8?id=2b51710cee513e8939785fa3e7980f32d4e0415f
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dcBc7tZ/ligcamp.png",LIGA CAMPEONES OP.3
+ http://192.168.1.143:6878/ace/manifest.m3u8?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dcBc7tZ/ligcamp.png",LIGA CAMPEONES OP.4
+ http://192.168.1.143:6878/ace/manifest.m3u8?id=b028202ff335911db3118bceac027df3e8ef6c32
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dcBc7tZ/ligcamp.png",LIGA CAMPEONES OP.5
+ http://192.168.1.143:6878/ace/manifest.m3u8?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dcBc7tZ/ligcamp.png",LIGA CAMPEONES OP.6
+ http://192.168.1.143:6878/ace/manifest.m3u8?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dcBc7tZ/ligcamp.png",LIGA CAMPEONES OP.7
+ http://192.168.1.143:6878/ace/manifest.m3u8?id=afbf2a479c5a5072698139f0f556ef3e77a99bd0
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dcBc7tZ/ligcamp.png",LIGA CAMPEONES OP.8
+ http://192.168.1.143:6878/ace/manifest.m3u8?id=0f7842f8b6c26571e5a974407b61623e56e6a052
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dcBc7tZ/ligcamp.png",LIGA CAMPEONES OP.9
+ http://192.168.1.143:6878/ace/manifest.m3u8?id=f3eea003e23f94dc2d527306de9dd386e3ebf4ba
