@@ -3,7 +3,7 @@
 http://192.168.1.143:6878/ace/manifest.m3u8?id=167e3b44a520cd76d4372f6d30fe6d7ccd
 #EXTINF:-1  tvg-logo="https://i.ibb.co/cKwpFPWx/actualizar.png",ACTUALIZADO 14/09/25 20:00
 http://192.168.1.143:6878/ace/manifest.m3u8?id=167e3b44a520cd76d4372f6d30fe6d7ccd
-#EXTINF:-1, tvg-logo="https://i.ibb.co/pjZmDDMp/Captura-de-pantalla-2025-09-14-195746.png" group-title="REAL MADRID",R.MADRID - MARSELLA
+#EXTINF:-1  tvg-logo="https://i.ibb.co/pjZmDDMp/Captura-de-pantalla-2025-09-14-195746.png" group-title="REAL MADRID",R.MADRID - MARSELLA
 http://192.168.1.143:6878/ace/manifest.m3u8?id=14407b00d454cb7dc0d70aa26e8bbc554f457f07
 #EXTINF:-1  tvg-logo="https://i.ibb.co/N6d6p14C/dzn1por.webp",DAZN 1 PT
 http://192.168.1.143:6878/ace/manifest.m3u8?id=36cad67fed5a739757a9db844a551aa845a8d51b
@@ -15,11 +15,11 @@ http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21
 http://192.168.1.143:6878/ace/manifest.m3u8?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
 #EXTINF:-1  tvg-logo="https://i.ibb.co/sdSkTQ1k/bein.png",BeIN SPORTS 1 FR
 http://192.168.1.143:6878/ace/manifest.m3u8?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1, tvg-logo="https://i.ibb.co/GfSG090R/1REF.png" group-title="CASTILLA",PRIMERA FERDERACION OP.1
+#EXTINF:-1  tvg-logo="https://i.ibb.co/GfSG090R/1REF.png" group-title="CASTILLA",PRIMERA FERDERACION OP.1
 http://192.168.1.143:6878/ace/manifest.m3u8?id=a2ed6f2ca3f804481131c41ce64d4286a5820476
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GfSG090R/1REF.png",PRIMERA FERDERACION OP.2
 http://192.168.1.143:6878/ace/manifest.m3u8?id=b40212c43e96e97542ea00f2129212a054853a57
-#EXTINF:-1, tvg-logo="https://i.ibb.co/BVTqgCdK/ellvsm.png" group-title="MADRID FEMENINO",ELLAS VAMOS OP.1
+#EXTINF:-1  tvg-logo="https://i.ibb.co/BVTqgCdK/ellvsm.png" group-title="MADRID FEMENINO",ELLAS VAMOS OP.1
 http://192.168.1.143:6878/ace/manifest.m3u8?id=9b84af74b2fa3690c519199326fc2f181b025cdd
 #EXTINF:-1  tvg-logo="https://i.ibb.co/BVTqgCdK/ellvsm.png",ELLAS VAMOS OP.2
 http://192.168.1.143:6878/ace/manifest.m3u8?id=594b59d435527327c9b6965f247995b907bfc285
