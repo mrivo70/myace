@@ -1,35 +1,35 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo=https://i.ibb.co/4TB4NCD/pngegg.png",ACTIVOS SOLO CUANDO HAY PARTIDO
+#EXTINF:-1  tvg-logo=https://i.ibb.co/4TB4NCD/pngegg.png",ACTIVOS SOLO CUANDO HAY PARTIDO
 http://192.168.1.143:6878/ace/manifest.m3u8?id=167e3b44a520cd76d4372f6d30fe6d7ccd
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/cKwpFPWx/actualizar.png",ACTUALIZADO 14/09/25 20:00
+#EXTINF:-1  tvg-logo="https://i.ibb.co/cKwpFPWx/actualizar.png",ACTUALIZADO 14/09/25 20:00
 http://192.168.1.143:6878/ace/manifest.m3u8?id=167e3b44a520cd76d4372f6d30fe6d7ccd
 #EXTINF:-1, tvg-logo="https://i.ibb.co/pjZmDDMp/Captura-de-pantalla-2025-09-14-195746.png" group-title="REAL MADRID",R.MADRID - MARSELLA
 http://192.168.1.143:6878/ace/manifest.m3u8?id=14407b00d454cb7dc0d70aa26e8bbc554f457f07
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/N6d6p14C/dzn1por.webp",DAZN 1 PT
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N6d6p14C/dzn1por.webp",DAZN 1 PT
 http://192.168.1.143:6878/ace/manifest.m3u8?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png",DAZN 1 BAR DE
+#EXTINF:-1  tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png",DAZN 1 BAR DE
 http://192.168.1.143:6878/ace/manifest.m3u8?id=897e73c9d578848f596585314ecb9ae067c0e229
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/84tr2mPk/tnt1.png",TNT SPORTS 1 UK
+#EXTINF:-1  tvg-logo="https://i.ibb.co/84tr2mPk/tnt1.png",TNT SPORTS 1 UK
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GQ6GTV81/zig2.png",ZIGGO SPORT 2 NL
+#EXTINF:-1  tvg-logo="https://i.ibb.co/GQ6GTV81/zig2.png",ZIGGO SPORT 2 NL
 http://192.168.1.143:6878/ace/manifest.m3u8?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/sdSkTQ1k/bein.png",BeIN SPORTS 1 FR
+#EXTINF:-1  tvg-logo="https://i.ibb.co/sdSkTQ1k/bein.png",BeIN SPORTS 1 FR
 http://192.168.1.143:6878/ace/manifest.m3u8?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1, tvg-logo="https://i.ibb.co/GfSG090R/1REF.png" group-title="CASTILLA",PRIMERA FERDERACION OP.1
 http://192.168.1.143:6878/ace/manifest.m3u8?id=a2ed6f2ca3f804481131c41ce64d4286a5820476
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/GfSG090R/1REF.png",PRIMERA FERDERACION OP.2
+#EXTINF:-1  tvg-logo="https://i.ibb.co/GfSG090R/1REF.png",PRIMERA FERDERACION OP.2
 http://192.168.1.143:6878/ace/manifest.m3u8?id=b40212c43e96e97542ea00f2129212a054853a57
 #EXTINF:-1, tvg-logo="https://i.ibb.co/BVTqgCdK/ellvsm.png" group-title="MADRID FEMENINO",ELLAS VAMOS OP.1
 http://192.168.1.143:6878/ace/manifest.m3u8?id=9b84af74b2fa3690c519199326fc2f181b025cdd
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/BVTqgCdK/ellvsm.png",ELLAS VAMOS OP.2
+#EXTINF:-1  tvg-logo="https://i.ibb.co/BVTqgCdK/ellvsm.png",ELLAS VAMOS OP.2
 http://192.168.1.143:6878/ace/manifest.m3u8?id=594b59d435527327c9b6965f247995b907bfc285
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FbyXnW1V/dazn2por.png",DAZN 2 OP.2
+#EXTINF:-1  tvg-logo="https://i.ibb.co/FbyXnW1V/dazn2por.png",DAZN 2 OP.2
 http://192.168.1.143:6878/ace/manifest.m3u8?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FbyXnW1V/dazn2por.png",DAZN 2 OP.3
+#EXTINF:-1  tvg-logo="https://i.ibb.co/FbyXnW1V/dazn2por.png",DAZN 2 OP.3
 http://192.168.1.143:6878/ace/manifest.m3u8?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FbyXnW1V/dazn2por.png",DAZN 2 OP.4
+#EXTINF:-1  tvg-logo="https://i.ibb.co/FbyXnW1V/dazn2por.png",DAZN 2 OP.4
 http://192.168.1.143:6878/ace/manifest.m3u8?id=43004e955731cd3afcc34d24e5178d4b427bff37
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FbyXnW1V/dazn2por.png",DAZN 2 OP.5
+#EXTINF:-1  tvg-logo="https://i.ibb.co/FbyXnW1V/dazn2por.png",DAZN 2 OP.5
 http://192.168.1.143:6878/ace/manifest.m3u8?id=2f9211669499f413dab1a490198afab2a9b4b57c
-#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FbyXnW1V/dazn2por.png",DAZN 2 OP.6
+#EXTINF:-1  tvg-logo="https://i.ibb.co/FbyXnW1V/dazn2por.png",DAZN 2 OP.6
 http://192.168.1.143:6878/ace/manifest.m3u8?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
