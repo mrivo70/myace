@@ -3,7 +3,7 @@
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b167e3b44a520cd76d4372f6d30fe6d7ccd
 #EXTINF:-1  tvg-logo="https://i.ibb.co/jyf625B/xpi.png",CADUCA 06/02/26
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b167e3b44a520cd76d4372f6d30fe6d7ccd
-#EXTINF:-1, tvg-logo="https://i.ibb.co/qN1nVc6/elesp1.png" group-title="EXTRANJEROS FUTBOL",ELEVEN SPORTS 1 PL
+#EXTINF:-1, tvg-logo="https://i.ibb.co/qN1nVc6/elesp1.png" ,ELEVEN SPORTS 1 PL
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b14407b00d454cb7dc0d70aa26e8bbc554f457f00
 #EXTINF:-1  tvg-logo="https://i.ibb.co/N6d6p14C/dzn1por.webp",DAZN 1 PT (MADRID CHAMPIONS)
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b36cad67fed5a739757a9db844a551aa845a8d51b
@@ -11,7 +11,7 @@ http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b7ac2d74ef6df9d15012992d7e0e635a95f58c652
 #EXTINF:-1  tvg-logo="https://i.ibb.co/cKzNN39W/polska1.png",CANAL+SPORT 1 PL
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5bcc7b8c39f70aa342248d02c8ab55bafdb4116ed7
-#EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png" group-title="LA LIGA",LA LIGA OP.1 4K
+#EXTINF:-1, tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png" ,LA LIGA OP.1 4K
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b6e5e31f2542b284557c3392c1918eb5030aed64e
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ykKYq2W/lig1.png",LA LIGA OP.2
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b00c9bc9c5d7d87680a5a6bed349edfa775a89947
@@ -59,7 +59,7 @@ http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b68697ea4f261289d97bbc3418ad3cbc4180aa32
 #EXTINF:-1  tvg-logo="https://i.ibb.co/jRCrmtT/dzn5.webp",DAZN LA LIGA 5 
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b68697ea4f261289d97bbc3418ad3cbc4180aa32
-#EXTINF:-1, tvg-logo="https://i.ibb.co/dcBc7tZ/ligcamp.png" group-title="CHAMPIONS",LIGA CAMPEONES OP.1 
+#EXTINF:-1, tvg-logo="https://i.ibb.co/dcBc7tZ/ligcamp.png" ,LIGA CAMPEONES OP.1 
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b97df5b7824948972d041d8ca2a4d29c90b641bc9
 #EXTINF:-1  tvg-logo="https://i.ibb.co/dcBc7tZ/ligcamp.png",LIGA CAMPEONES OP.2
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b2b51710cee513e8939785fa3e7980f32d4e0415f
@@ -117,7 +117,7 @@ http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b6e12a5849a4edea248ed9c8689e58bd66fc9f8fa
 #EXTINF:-1  tvg-logo="https://i.ibb.co/R2y0Xg9/ligcam12.png",LIGA CAMPEONES 12
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b130d37f9a68bd8f29f0d636dcde522a1e91d1cb7
-#EXTINF:-1, tvg-logo="https://i.ibb.co/JdfZD1W/ligseg.png" group-title="HYPERMOTION",LA LIGA HYPERMOTION OP.1
+#EXTINF:-1, tvg-logo="https://i.ibb.co/JdfZD1W/ligseg.png" ,LA LIGA HYPERMOTION OP.1
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5bfe289ab20d8f9dcb426fc6d56ce9dbbddb66e3b3
 #EXTINF:-1  tvg-logo="https://i.ibb.co/JdfZD1W/ligseg.png",LA LIGA HYPERMOTION OP.2
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b83e8a605ffebe2062f15dad76b6ffe9486a28eb3
@@ -139,11 +139,11 @@ http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b2cacf21476b036e319bcb7c7e747766e6ccc082e
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8cSX3xx/ligseg5.png",LA LIGA HYPERMOTION 5
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5ba1146358aa50c99c887108b17f62f9264186a16a
-#EXTINF:-1, tvg-logo="https://i.ibb.co/GfSG090R/1REF.png" group-title="PRIMERA FEDERACION",PRIMERA FEDERACION OP.1 
+#EXTINF:-1, tvg-logo="https://i.ibb.co/GfSG090R/1REF.png" ,PRIMERA FEDERACION OP.1 
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5ba2ed6f2ca3f804481131c41ce64d4286a5820476
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GfSG090R/1REF.png",PRIMERA FERDERACION OP.2
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5bb40212c43e96e97542ea00f2129212a054853a57
-#EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp" group-title="MOVISTAR+",MOVISTAR PLUS OP.1
+#EXTINF:-1, tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp" ,MOVISTAR PLUS OP.1
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Hg0QpV9/mps.webp",MOVISTAR PLUS OP.2
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5bb2a4d1eba9b46df5f52a87105df779f9d39abeb4
@@ -151,7 +151,7 @@ http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b56ac8e227d526e722624675ccdd91b0cc850582f
 #EXTINF:-1  tvg-logo="https://i.ibb.co/gL8rx1B7/plus2.png",MOVISTAR PLUS 2
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5bfbc39d8a9e5d7c9ac6a1438d440104620f54e09c
-#EXTINF:-1, tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png" group-title="DAZN",DAZN 1 OP.1
+#EXTINF:-1, tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png" DAZN 1 OP.1
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b6538b79ce0da657d8455d1da6a5f342398899a0e
 #EXTINF:-1  tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png",DAZN 1 OP.2
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b50a8a13c474848d1efbd5586efdb5b6cdd173fa9
@@ -191,7 +191,7 @@ http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b71eef80158aa8b37f3dc59f6793c6696df9a2dfa
 #EXTINF:-1  tvg-logo="https://i.ibb.co/r50YjwQ/dazcoh1.webp",DAZN F1 OP.9
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b268289e7a3c5209960b53b4d43c8c65fab294b85
-#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png" group-title="M. DEPORTES",DEPORTES OP.1
+#EXTINF:-1, tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png" ,DEPORTES OP.1
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5bef9dcc4eaac36a0f608b52a31f8ab237859e071a
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2sDjbZp/deportt.png",DEPORTES OP.2
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5bb5842718859345a596107ab8e6b24d7bfa2d617e
@@ -221,7 +221,7 @@ http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5bcc5782d37ae6b6e0bab396dd64074982d0879046
 #EXTINF:-1  tvg-logo="https://i.ibb.co/6rv7qfX/mdp7.png",DEPORTES 7
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b070f82d6443a52962d6a2ed9954c979b29404932
-#EXTINF:-1, tvg-logo="https://i.ibb.co/y8w9QfM/vms.webp" group-title="VAMOS",VAMOS OP.1
+#EXTINF:-1, tvg-logo="https://i.ibb.co/y8w9QfM/vms.webp" ,VAMOS OP.1
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5bc7c81acdd1a03ecc418c94c2f28e2adb0556c40b
 #EXTINF:-1  tvg-logo="https://i.ibb.co/y8w9QfM/vms.webp",VAMOS OP.2
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b0e5d8c9724fa9163f49096b70484e315251eb785
@@ -241,7 +241,7 @@ http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b9b84af74b2fa3690c519199326fc2f181b025cdd
 #EXTINF:-1  tvg-logo="https://i.ibb.co/WzWry0G/ellsvms.webp",ELLAS OP.2
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b9b84af74b2fa3690c519199326fc2f181b025cd
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/c1gMkZpN/euro1.png" group-title="EUROSPORT",EUROSPORT 1 OP.1 ESP
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/c1gMkZpN/euro1.png" ,EUROSPORT 1 OP.1 ESP
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5bc3da6c4f91d9d10ade00318a869435e19f204d0e
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/c1gMkZpN/euro1.png",EUROSPORT 1 OP.2 ESP
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5bd830c1dc3b74e74f79cbb823804cf2037857e78a
@@ -249,7 +249,7 @@ http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b0585e09bb8ac9720e4c11934f1b184e309291551
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/hGZTM3Mj/euro2.png",EUROSPORT 2 OP.2 ESP
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5bd830c1dc3b74e74f79cbb823804cf2037857e78a
-#EXTINF:-1, tvg-logo="https://i.ibb.co/SnD0nKd/gf.png" group-title="GOLF",M. GOLF OP.1
+#EXTINF:-1, tvg-logo="https://i.ibb.co/SnD0nKd/gf.png" ,M. GOLF OP.1
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
 #EXTINF:-1  tvg-logo="https://i.ibb.co/SnD0nKd/gf.png",M. GOLF OP.2
 http://192.168.1.143:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b872608e734992db636eb79426802cd08f4029afb
