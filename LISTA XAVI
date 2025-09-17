@@ -3,7 +3,7 @@
 http://192.168.1.143:6878/ace/manifest.m3u8?id=167e3b44a520cd76d4372f6d30fe6d7ccd
 #EXTINF:-1  tvg-logo="https://i.ibb.co/cKwpFPWx/actualizar.png",ACTUALIZADO 14/09/25 20:00
 http://192.168.1.143:6878/ace/manifest.m3u8?id=167e3b44a520cd76d4372f6d30fe6d7ccd
-#EXTINF:-1, tvg-logo="https://i.ibb.co/N6d6p14C/dzn1por.webp" group-title="REAL MADRID",DAZN 1 PT
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N6d6p14C/dzn1por.webp" group-title="REAL MADRID",DAZN 1 PT
 http://192.168.1.143:6878/ace/manifest.m3u8?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1  tvg-logo="https://i.ibb.co/FhY1zTB/dazn1.png",DAZN 1 BAR DE
 http://192.168.1.143:6878/ace/manifest.m3u8?id=897e73c9d578848f596585314ecb9ae067c0e229
